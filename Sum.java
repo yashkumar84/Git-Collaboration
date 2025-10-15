@@ -2,7 +2,7 @@ public class Sum {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
-        System.out.println("The Sum is " + a + b + "I am the best");
+        System.out.println("I am the best");
     }
 
 }
